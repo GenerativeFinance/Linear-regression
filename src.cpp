@@ -24,3 +24,11 @@ int main() {
     cout << "y = " << result[0] << "x + " << result[1] << endl;
     return 0;
 }
+
+/*
+In this implementation, linearRegression takes a vector of pairs of double as input, 
+where each pair represents a single data point with the x-value and y-value. 
+The function returns a vector with two elements, representing the slope and the 
+intercept of the regression line. The main function shows an example usage of the 
+linearRegression function by creating a vector of data points and calling the function.
+*/
