@@ -22,5 +22,9 @@ if (require.main === module) {
 }
 
 /*
-In this implementation, linearRegression takes an array of arrays as input, where each inner array represents a single data point with the x-value and y-value. The function returns an array with two elements, representing the slope and the intercept of the regression line. The if (require.main === module) block shows an example usage of the linearRegression function by creating an array of data points and calling the function.
+In this implementation, linearRegression takes an array of arrays as input, 
+where each inner array represents a single data point with the x-value and 
+y-value. The function returns an array with two elements, representing the 
+slope and the intercept of the regression line. The if (require.main === module) 
+block shows an example usage of the linearRegression function by creating an array of data points and calling the function.
 */
